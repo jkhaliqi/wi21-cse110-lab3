@@ -2,7 +2,7 @@
 name: Text in css
 about: Anything pertaining text
 title: ''
-labels: ''
+labels: documentation, CSS ft, Lab3 req
 assignees: ''
 
 ---
