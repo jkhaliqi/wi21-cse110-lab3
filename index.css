@@ -45,6 +45,13 @@ aside + section {
 aside ~ section {
   background-color: yellow;
 }
+p.highlight {
+  background-color: yellow;
+}
+
+/*------------CSS TOPICS-----------*/
+/*Borders*/
+
 
 
 
