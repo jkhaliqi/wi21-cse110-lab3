@@ -32,6 +32,9 @@ p {
 a[target="_blank"] {
   color: red;
 }
+a:active {
+  background-color: green;
+}
 a:hover {
   background-color: yellow;
 }
