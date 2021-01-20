@@ -1,5 +1,5 @@
 /* add a class selector and font*/
-.p1 {
+*.p1 {
   font-family: "Potta One", cursive;
 }
 section {
