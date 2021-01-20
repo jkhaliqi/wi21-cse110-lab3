@@ -127,6 +127,13 @@ a {
 p.hidden {
   display: none;
 }
+/*playing with max and min width as percentages*/
+div.maxmin{
+  min-width: 10%;
+  max-width: 25%;
+  background-color: green;
+}
+  
 
 
 
