@@ -92,6 +92,13 @@ td, th {
 td {
   text-align: center;
 }
+h2.margin {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  magin-left: 10px;
+  margin-right: 150px;
+  background-color: lightblue;
+}
 
 
   
