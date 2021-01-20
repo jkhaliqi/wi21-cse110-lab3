@@ -72,6 +72,25 @@ p.relative {
   font-size: 2ex;
   font-size: 2ch;
 }
+/*Use of Box Model*/
+
+caption {
+  padding: 8px;
+  caption-side: bottom;
+}
+table {
+  border-collapse: collapse;
+  border: 2px solid rgb(100,100,100);
+  letter-spacing: 1px;
+  font-family: sans-serif;
+  font-size: .7rem;
+}
+td, th {
+  border: 3px solid rgb(100,100,100);
+  padding: 10px 10px;
+}
+
+
   
 
 
