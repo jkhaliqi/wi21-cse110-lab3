@@ -2,7 +2,7 @@
 name: colors
 about: Add colors
 title: ''
-labels: enhancement, CSS ft, Lab3 req
+labels: CSS ft, Lab3 req, enhancement
 assignees: ''
 
 ---
