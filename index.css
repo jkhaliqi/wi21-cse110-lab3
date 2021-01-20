@@ -75,7 +75,7 @@ p.relative {
 /*Use of Box Model*/
 
 caption {
-  padding: 8px;
+  padding: 3px;
   caption-side: bottom;
 }
 table {
@@ -88,6 +88,9 @@ table {
 td, th {
   border: 3px solid rgb(100,100,100);
   padding: 10px 10px;
+}
+td {
+  text-align: center;
 }
 
 
