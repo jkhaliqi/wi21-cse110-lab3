@@ -114,8 +114,8 @@ p.margin {
 }
 div.htwd {
   height: 50px;
-  width: 150px;
-  background-color: red;
+  width: 200px;
+  background-color: rgb(50,0,0);
 }
 
 
