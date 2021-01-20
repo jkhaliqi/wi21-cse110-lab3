@@ -143,7 +143,11 @@ div.maxmin{
 }
 /*Media Query based off screen size
 If it is really big the whole screen will just be light green*/
+
+@media screen and (min-width: 500px) {
+
 @media screen and (min-width: 100px) {
+
   body {
     background-color: lightgreen;
   }
