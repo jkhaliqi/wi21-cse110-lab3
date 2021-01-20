@@ -119,6 +119,16 @@ div.htwd {
   width: 200px;
   background-color: red;
 }
+/*Quick use of block and hidden display*/
+a {
+  display: block;
+}
+p.hidden {
+  display: none;
+}
+
+
+
 
 
   
