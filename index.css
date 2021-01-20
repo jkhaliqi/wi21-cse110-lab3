@@ -60,6 +60,19 @@ p.dotted {
   border: 2px solid blue;
   border-radius: 10px;
 }
+/* Use of three absolute and one relative*/
+p.absolute {
+  font-size: 16px;
+  font-size: 10cm;
+  font-size: 0.2in;
+  line-height: 1em;
+}
+/*use of two relatives for a total of three*/
+p.relative {
+  font-size: 2ex;
+  font-size: 2ch;
+}
+  
 
 
 
