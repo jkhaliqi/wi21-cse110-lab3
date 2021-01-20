@@ -3,6 +3,7 @@
   font-family: "Potta One", cursive;
 }
 section {
+  position: static;
   text-decoration: underline;
   text-decoration: overline;
   color: navy;
@@ -16,6 +17,7 @@ section {
 }
 /*Selector List */
 section, aside {
+  position: relative;
   font-family = "Times New Roman", Times, serif;
 }
 
