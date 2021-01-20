@@ -24,6 +24,6 @@ p {
   font-family = "Times New Roman", Times, serif;
 }
 
-a[target=_blank] {
+a:hover[target=_blank] {
   background-color: yellow;
 }
