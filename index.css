@@ -72,10 +72,12 @@ p.relative {
   font-size: 2ex;
   font-size: 2ch;
 }
-/*Use of Box Model*/
-
+/*Use of Box Model, padding long*/
 caption {
-  padding: 3px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
   caption-side: bottom;
 }
 table {
@@ -85,9 +87,10 @@ table {
   font-family: sans-serif;
   font-size: .7rem;
 }
+/*padding short*/
 td, th {
   border: 3px solid rgb(100,100,100);
-  padding: 10px 10px;
+  padding: 10px 10px 10px 10px;
 }
 td {
   text-align: center;
@@ -97,12 +100,17 @@ h2.margin {
   margin-top: 10px;
   margin-bottom: 5px;
   magin-left: 10px;
-  margin-right: 150px;
+  margin-right: 750px;
   background-color: lightblue;
 }
 /*short hand margins*/
 p.margin {
-  margin: 10px 100px 10px 10px
+  margin: 10px 750px 10px 10px
+}
+/*use of auto margin*/
+#margin {
+  margin: auto;
+  border: 1px solid red;
 }
 
 
