@@ -1,1 +1,6 @@
-
+/*This is a comment*/
+/*This is an element selector
+that will make all paragraphs red*/
+p{
+  color: red
+}
