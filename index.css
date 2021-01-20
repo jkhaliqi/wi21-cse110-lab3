@@ -55,7 +55,10 @@ p.dotted {
   border-style: solid;
   border-color: blue;
   border-width: thick;
-  border-radius: 25px;
+}
+#rounded {
+  border: 2px solid blue;
+  border-radius: 10px;
 }
 
 
