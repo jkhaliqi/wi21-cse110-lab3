@@ -2,10 +2,13 @@
 *.p1 {
   font-family: "Potta One", cursive;
 }
+section:active {
+  background-color: green;
+}
 section {
   position: static;
-  text-decoration: underline;
   text-decoration: overline;
+  text-decoration: underline;
   color: navy;
 }
 /* all the color options left */
