@@ -131,6 +131,7 @@ p.hidden {
 div.maxmin{
   min-width: 10%;
   max-width: 25%;
+  height: 25px;
   background-color: green;
 }
   
