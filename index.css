@@ -1,8 +1,12 @@
-/* add a class selector */
+/* add a class selector and font*/
+.p1 {
+  font-family: 'Yusei Magic', sans-serif;
+}
+  
 
 
 /*This is an element selector
 that will make all paragraphs red*/
-p{
+p {
   color: red
 }
