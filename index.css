@@ -26,6 +26,6 @@ p {
 a[target=_blank] {
   color: red
 }
-section:hover {
+section::hover {
   background-color: yellow;
 }
