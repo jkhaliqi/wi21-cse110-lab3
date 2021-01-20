@@ -2,9 +2,12 @@
 *.p1 {
   font-family: "Potta One", cursive;
 }
+p.active:active {
+  background-color: green;
+}
 section {
+  position: static;
   text-decoration: underline;
-  text-decoration: overline;
   color: navy;
 }
 /* all the color options left */
@@ -16,6 +19,7 @@ section {
 }
 /*Selector List */
 section, aside {
+  position: relative;
   font-family = "Times New Roman", Times, serif;
 }
 
@@ -31,6 +35,9 @@ p {
 }
 a[target="_blank"] {
   color: red;
+}
+a:active {
+  background-color: green;
 }
 a:hover {
   background-color: yellow;
@@ -102,12 +109,13 @@ h2.margin {
   margin-top: 10px;
   margin-bottom: 5px;
   magin-left: 10px;
-  margin-right: 1000px;
+  margin-right: 1250px;
   background-color: lightblue;
 }
 /*short hand margins*/
 p.margin {
-  margin: 10px 750px 10px 10px
+  margin: 10px 1250px 10px 10px;
+  background-color: lightgreen;
 }
 /*use of auto margin*/
 #margin {
@@ -126,6 +134,14 @@ a {
 p.hidden {
   display: none;
 }
+/*playing with max and min width as percentages*/
+div.maxmin{
+  min-width: 10%;
+  max-width: 25%;
+  height: 25px;
+  background-color: green;
+}
+  
 
 
 
