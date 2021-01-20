@@ -7,7 +7,6 @@ section:active {
 }
 section {
   position: static;
-  text-decoration: overline;
   text-decoration: underline;
   color: navy;
 }
