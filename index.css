@@ -36,6 +36,22 @@ a:hover {
 div p {
   background-color: yellow;
 }
+div > p {
+  background-color: yellow;
+}
+aside + section {
+  background-color: yellow;
+}
+aside ~ section {
+  background-color: yellow;
+}
+
+
+
+
+
+
+
 
 
 
