@@ -18,13 +18,13 @@ h2 {
 }
 
 /*This is an element selector
-that will make all paragraphs navy*/
+that will make all paragraphs font and color change*/
 p {
   color: blue;
   font-family = "Times New Roman", Times, serif;
 }
 a[target=_blank] {
-  color: red
+  color: red;
 }
 section::hover {
   background-color: yellow;
