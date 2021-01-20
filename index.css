@@ -2,7 +2,7 @@
 *.p1 {
   font-family: "Potta One", cursive;
 }
-section:active {
+p.active:active {
   background-color: green;
 }
 section {
