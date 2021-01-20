@@ -56,6 +56,10 @@ p.dotted {
   border-color: blue;
   border-width: thick;
 }
+#rounded {
+  border: 2px solid blue;
+  border-radius: 10px;
+}
 
 
 
