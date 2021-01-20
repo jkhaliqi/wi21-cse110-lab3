@@ -104,6 +104,10 @@ h2.margin {
 p.margin {
   margin: 10px 750px 10px 10px
 }
+/*use of auto margin*/
+#margin {
+  margin: auto;
+  border: 1px solid red;
 
 
   
