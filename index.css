@@ -51,7 +51,7 @@ p.highlight {
 
 /*------------CSS TOPICS-----------*/
 /*Borders*/
-section.dotted {
+p.dotted {
   border-style: dotted;
   border-color: blue;
   border-width: thick;
