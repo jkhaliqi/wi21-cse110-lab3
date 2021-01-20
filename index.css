@@ -3,20 +3,19 @@
   font-family: "Potta One", cursive;
 }
 section {
-  color: indigo
+  color: navy;
 }
 aside {
-  color: #4B0082
+  color: #4B0082;
 }
 
 h2 {
-  color: #000080 
+  color: #000080; 
 }
-  
-
 
 /*This is an element selector
 that will make all paragraphs red*/
 p {
-  color: red
+  color: navy;
+  font-family = "Times New Roman", Times, serif;
 }
