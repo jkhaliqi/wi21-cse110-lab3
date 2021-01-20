@@ -67,6 +67,12 @@ p.absolute {
   font-size: 0.2in;
   line-height: 1em;
 }
+/*use of two relatives for a total of three*/
+p.relative {
+  font-size: 2ex;
+  font-size: 2ch;
+}
+  
 
 
 
