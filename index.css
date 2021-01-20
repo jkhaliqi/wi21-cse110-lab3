@@ -97,12 +97,12 @@ h2.margin {
   margin-top: 10px;
   margin-bottom: 5px;
   magin-left: 10px;
-  margin-right: 150px;
+  margin-right: 750px;
   background-color: lightblue;
 }
 /*short hand margins*/
 p.margin {
-  margin: 10px 100px 10px 10px
+  margin: 10px 750px 10px 10px
 }
 
 
