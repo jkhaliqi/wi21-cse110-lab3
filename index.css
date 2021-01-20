@@ -14,7 +14,7 @@ h2 {
 }
 
 /*This is an element selector
-that will make all paragraphs red*/
+that will make all paragraphs navy*/
 p {
   color: navy;
   font-family = "Times New Roman", Times, serif;
