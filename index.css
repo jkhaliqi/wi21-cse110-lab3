@@ -3,6 +3,8 @@
   font-family: "Potta One", cursive;
 }
 section {
+  text-decoration: underline;
+  text-decoration: overline;
   color: navy;
 }
 /* all the color options left */
