@@ -100,7 +100,7 @@ h2.margin {
   margin-top: 10px;
   margin-bottom: 5px;
   magin-left: 10px;
-  margin-right: 750px;
+  margin-right: 1000px;
   background-color: lightblue;
 }
 /*short hand margins*/
@@ -111,6 +111,11 @@ p.margin {
 #margin {
   margin: auto;
   border: 1px solid red;
+}
+div.htwd {
+  height: 50px;
+  width: 200px;
+  background-color: rgb(50,0,0);
 }
 
 
