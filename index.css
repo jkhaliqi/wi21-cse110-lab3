@@ -3,11 +3,14 @@
   font-family: "Potta One", cursive;
 }
 section {
-  color: purple
+  color: indigo
+}
+aside {
+  color: #4B0082
 }
 
 h2 {
-  color: white
+  color: #000080 
 }
   
 
