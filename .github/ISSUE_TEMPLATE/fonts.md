@@ -2,7 +2,7 @@
 name: Fonts
 about: changing the fonts
 title: ''
-labels: enhancement, CSS ft, Lab3 req
+labels: CSS ft, Lab3 req, enhancement
 assignees: ''
 
 ---

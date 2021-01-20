@@ -1,12 +1,35 @@
 /* add a class selector and font*/
-.p1 {
-  font-family: 'Yusei Magic', sans-serif;
+*.p1 {
+  font-family: "Potta One", cursive;
 }
-  
+section {
+  color: navy;
+}
+/* all the color options left */
+#side {
+  color: rgb(0,0,255);
+  color: rgba(0,0,255,0);
+  color: #000;
+  color: hsl(0,0,0),  hsla(0,0,0,0);
+}
+/*Selector List */
+section, aside {
+  font-family = "Times New Roman", Times, serif;
+}
 
+h2 {
+  color: #000080; 
+}
 
 /*This is an element selector
-that will make all paragraphs red*/
+that will make all paragraphs font and color change*/
 p {
-  color: red
+  color: blue;
+  font-family = "Times New Roman", Times, serif;
+}
+a[target="_blank"] {
+  color: red;
+}
+a:hover {
+  background-color: yellow;
 }
