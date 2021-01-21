@@ -151,7 +151,7 @@ if bigger than than the min-width size*/
 /*FlexBox Section*/
 .flexy {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   background-color: navy;
 }
 .flexy > div {
