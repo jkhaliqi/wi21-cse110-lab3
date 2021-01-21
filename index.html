@@ -144,32 +144,15 @@
     <input type="radio" id="not-listed" name="not listed">
     <label for="not-listed">not listed</label>
   </fieldset>
-  
-  <label for="start">What is your date of birth</label>
-  <input type="date" id="start" name="trip-start"
-       value="2021-01-01"
-       min="1920-01-01" max="2021-12-31"><br/>
-  
-  
-<label for="Siblings">Number of siblings:</label>
-
-<input type="number" id="Siblings" name="Siblings"
+  <label for="Siblings">Number of siblings:</label>
+  <input type="number" id="Siblings" name="Siblings"
        min="0" max="100"> 
-  
-</form>
-  
-<label for="joke">Tell us a joke:</label>
-<textarea id="joke" name="joke"
-          rows=4 cols=35>
-  My joke:
-  </textarea>
-    
-<br>
-<br/>
-<label for="Clothing">Choose Clothing brand:</label>
-<input list="Clothes" id="Clothing" name="Clothing" />
+  </form>
+  <br/>
+    <label for="Clothing">Choose Clothing brand:</label>
+    <input list="Clothes" id="Clothing" name="Clothing" />
 
-<datalist id="Clothes">
+ <datalist id="Clothes">
     <option value="Vans">
     <option value="Adidas">
     <option value="Nike">
@@ -183,23 +166,6 @@
     <option value="Gucci">
     <option value="Polo">
 </datalist>
-
-    
-<p>Choose your favorite color:</p>
-
-<div>
-    <input type="color" id="head" name="head"
-           value="#e66465">
-    <label for="head">Color</label>
-</div><br>
-
-  <p>Audio settings:</p>
-  <input type="range" id="volume" name="volume"
-         min="0" max="11">
-  <label for="volume">Volume</label><br>
-  <input class="favorite styled"
-     type="button"
-     value="PRESS ME"><br>
 
 <table>
   <caption>Superheros and sidekicks</caption>
@@ -224,18 +190,6 @@
   </tr>
 </table>
 
-<details>
-  <summary>Details</summary>
-  Pay Attention<br>
-  Complete as listed<br>
-  And you should be good to go!<br>
-</details>
-
-<button class="favorite styled"
-        type="button">
-    Add to favorites
-</button><br>
-
 <template id="blank">
   <div>blank</div>
 </template>
@@ -248,6 +202,18 @@
     <p id="margin">Auto margin</p>
     <div class="htwd">Height of 50px and width of 200px</div>
     <div class="maxmin"></div>
+    
+    <h1>Flexible Boxes</h1>
+<div class="flex-container">
+  <div>These</div>
+  <div>Boxes</div>
+  <div>Are</div>  
+  <div>Flexible</div>
+  <div>And</div>
+  <div>Will</div>  
+  <div>Move</div>
+</div>
+    
 
     <footer>foot notes</footer>
   </body>
