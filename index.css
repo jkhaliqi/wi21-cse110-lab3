@@ -149,12 +149,12 @@ if bigger than than the min-width size*/
   }
 }
 /*FlexBox Section*/
-.flexy {
+.flex-container {
   display: flex;
   flex-wrap: wrap;
   background-color: navy;
 }
-.flexy > div {
+.flex-container > div {
   background-color: teal;
   width: 100px;
   margin: 10px;
