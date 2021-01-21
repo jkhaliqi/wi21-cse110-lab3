@@ -156,7 +156,7 @@ if bigger than than the min-width size*/
 }
 .flex-container > div {
   background-color: teal;
-  width: 100px;
+  width: 110px;
   margin: 10px;
   text-align: center;
   line-height: 75px;
