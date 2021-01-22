@@ -10,7 +10,6 @@ Location: Zoom
 - name
 # Agenda and Meeting Notes
 - discuss
-- what is going on
 # Individual project work
 - Name
   - What did you do yesterday?
@@ -18,5 +17,10 @@ Location: Zoom
   - Are you stuck on with anything?
   - Comfort level - How close are we to hitting our sprint goals?
 - Name
+  - What did you do yesterday?
+  - What will you do today?
+  - Are you stuck on with anything?
+  - Comfort level - How close are we to hitting our sprint goals?
+
 
 
