@@ -1,16 +1,16 @@
-#Standup Notes
+# Standup Notes
 Date: January 18 2021
 Location: Zoom
-#Attendance
-##Present
+# Attendance
+## Present
 -name
 -name
 -name
-##Absent
+## Absent
 -name
-#Agenda and Meeting Notes
+# Agenda and Meeting Notes
 -discuss
 -what is going on
-#
+# 
 
 
