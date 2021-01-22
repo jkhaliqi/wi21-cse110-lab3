@@ -167,7 +167,7 @@ div.navy {
 }
 /*Grid Section*/
 .grid-container {
-  display: grid;
+  display: inline-grid;
   grid-template-columns: auto, auto, auto, auto;
   background-color: blue;
   padding: 10px;
