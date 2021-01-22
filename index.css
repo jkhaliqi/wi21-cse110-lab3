@@ -151,7 +151,7 @@ if bigger than than the min-width size*/
 /*FlexBox Section*/
 .flex-container {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   background-color: navy;
 }
 .flex-container > div {
@@ -165,7 +165,6 @@ if bigger than than the min-width size*/
 div.navy {
   color: navy;
 }
-
 /*Grid Section*/
 
 
