@@ -3,14 +3,20 @@ Date: January 18 2021
 Location: Zoom
 # Attendance
 ## Present
--name
--name
--name
+- name
+- name
+- name
 ## Absent
--name
+- name
 # Agenda and Meeting Notes
--discuss
--what is going on
-# 
+- discuss
+- what is going on
+# Individual project work
+- Name
+  - What did you do yesterday?
+  - What will you do today?
+  - Are you stuck on with anything?
+  - Comfort level - How close are we to hitting our sprint goals?
+- Name
 
 
