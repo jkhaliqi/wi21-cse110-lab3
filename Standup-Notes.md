@@ -1,5 +1,5 @@
 # Standup Notes
-Date: January 18 2021
+Date: January 19 2021
 Location: Zoom
 # Attendance
 ## Present
