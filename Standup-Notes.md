@@ -8,9 +8,9 @@ Location: Zoom
     - name
   - ### Absent
     - name
-      -reason:
+      - reason:
     - name
-      -reason:
+      - reason:
 # Agenda and Meeting Notes
 - discuss
 # Individual project work
