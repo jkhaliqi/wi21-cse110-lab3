@@ -2,12 +2,15 @@
 Date: January 19 2021
 Location: Zoom
 # Attendance
-  - ## Present
+  - ### Present
     - name
     - name
     - name
-## Absent
-- name
+  - ### Absent
+    - name
+      -reason:
+    - name
+      -reason:
 # Agenda and Meeting Notes
 - discuss
 # Individual project work
